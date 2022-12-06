@@ -1,2 +1,1 @@
-# cogs3-final-project
-COGS 3 Final Portfolio
+https://jakev220.github.io/cogs3-final-project/
